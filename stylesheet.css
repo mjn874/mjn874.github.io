@@ -10,3 +10,9 @@ img {
   color: blue;
   text-decoration: underline;
 }
+#about {
+  border: 1px solid black;
+  background-color: lightgray;
+  padding: 10px;
+  margin: 10px;
+}
