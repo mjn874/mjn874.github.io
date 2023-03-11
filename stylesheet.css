@@ -5,3 +5,8 @@ img {
 	display: block;
 	margin: 0 auto;
 }
+.section-title {
+  font-size: 28px;
+  color: blue;
+  text-decoration: underline;
+}
